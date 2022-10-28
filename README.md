@@ -267,4 +267,7 @@ classDiagram
 ### 非功能性需求:
 >* 網站介面人性化、直觀、易操作
 >* 網站提供NFT紀念品給捐款者
+---
+# 功能分解圖(functional decomposition diagram):
+!(功能分解圖)["FDD.jpg"]
 
