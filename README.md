@@ -269,5 +269,5 @@ classDiagram
 >* 網站提供NFT紀念品給捐款者
 ---
 # 功能分解圖(functional decomposition diagram):
-!(功能分解圖)["FDD.jpg"]
+![FDD](FDD.png "FDD")
 
